@@ -1,5 +1,5 @@
 
-**Repository link**: https://github.com/nahid98/Emotion&Sentiment Classification of Reddit Posts
+**Repository link**: https://github.com/nahid98/Emotion-Sentiment-Classification-of-Reddit-Posts
 ------------
 <br>
 
